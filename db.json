@@ -1,14 +1,24 @@
-[
-	{
-		"image":"https://i.imgur.com/HCQv9JE.jpg",
-		"hash":"TKGIDQX{R#?KtiV?yCo{nP%eWFnO"
-	},
-	{
-		"image":"https://i.imgur.com/b62TKrS.jpg",
-		"hash":"LxE:k_Wtt1f4M?WGWAjXx_Rkobk8"
-	},
-	{
-		"image":"https://i.imgur.com/yC7gLKT.jpg",
-		"hash":"LKF={l.7V=D$5P%KIAkD~pNGV?s."
-	}
-]
+{
+   "screens":[
+      {
+         "type":"LANDING",
+         "images":[
+            {
+               "type":"FIRST_LANDING",
+               "image":"https://i.imgur.com/HCQv9JE.jpg",
+               "hash":"TKGIDQX{R#?KtiV?yCo{nP%eWFnO"
+            },
+            {
+               "type":"SECOND_LANDING",
+               "image":"https://i.imgur.com/b62TKrS.jpg",
+               "hash":"LxE:k_Wtt1f4M?WGWAjXx_Rkobk8"
+            },
+            {
+               "type":"THIRD_LANDING",
+               "image":"https://i.imgur.com/yC7gLKT.jpg",
+               "hash":"LKF={l.7V=D$5P%KIAkD~pNGV?s."
+            }
+         ]
+      }
+   ]
+}
